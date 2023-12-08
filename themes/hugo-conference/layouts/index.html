@@ -15,9 +15,12 @@
 
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 
-  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <!-- <link rel="stylesheet" href="https://rsms.me/inter/inter.css"> -->
   {{ $style := resources.Get "style.css" }}    
   <link rel="stylesheet" href="{{ $style.Permalink }}"> 
+
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+
 
 </head>
 <body>
@@ -35,7 +38,7 @@
         {{ end }}
 
         <footer class="footer mt-24">
-          <p>Made with ♥ by Quentin Glorieux. © {{ .Site.Title }} </p>
+          <div class="text-slate-300">Made with ♥ by Quentin Glorieux. © {{ .Site.Title }} </div>
         </footer>
       </div>
     </div>

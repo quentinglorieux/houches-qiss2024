@@ -5,10 +5,12 @@
 * {
   margin: 0;
   padding: 0;
-  list-style: none;
+  /* list-style: none; */
   border: 0;
   text-decoration: none;
 }
+
+
 img,
 input,
 label {
@@ -35,6 +37,15 @@ nav,
 section {
   display: block;
 }
+
+.section-title{
+  background-image: url('../img/cover.jpg');
+  background-size: cover;
+  color: #FFF;
+  padding: 120px 40px 20px 40px;
+  margin: 0;
+  margin-bottom: 40px;}
+
 audio,
 canvas,
 video {
@@ -188,13 +199,17 @@ input {
   line-height: normal;
 }
 button,
-input[type="button"],
-input[type="reset"],
-input[type="submit"] {
-  cursor: pointer;
+[type='button'],
+[type='reset'],
+[type='submit'] {
   -webkit-appearance: button;
-  *overflow: visible;
+  /* 1 */
+  background-color: #537298;
+  /* 2 */
+  background-image: none;
+  /* 2 */
 }
+
 button[disabled],
 input[disabled] {
   cursor: default;
@@ -394,14 +409,12 @@ nav {
 /* =============================================================================
    SPEAKER
    ========================================================================== */
-.speakers-list{
 
-}
-
+  
 .speakers-item {
   position: relative;
   min-height: 100px;
-  width: 200px;
+  width: 270px;
   padding-left: 70px;
   margin-bottom: 10px;
   border-bottom: 1px dashed #e7e7e7;
@@ -492,7 +505,7 @@ nav {
 /* =============================================================================
    CONTATO
    ========================================================================== */
-.form label {
+/* .form label {
   font-size: 16px;
   display: block;
   margin-bottom: .5em;
@@ -530,7 +543,7 @@ nav {
 }
 .form .btn {
   float: right;
-}
+} */
 /* =============================================================================
    Media Queries
    ========================================================================== */
@@ -702,6 +715,12 @@ html {
   background: #F6F6F6;
   font: normal normal 10px/1.2em helvetica, arial, sans-serif;
   color: #777;
+}
+
+.form_q{
+  font-size: 1.6em;
+  line-height: 1.6em;
+  margin-bottom: 1.4em;
 }
 /* =============================================================================
    BASIC STYLES
@@ -880,7 +899,7 @@ nav {
 /* =============================================================================
    CONTACT
    ========================================================================== */
-.form input[type=text],
+/* .form input[type=text],
 .form input[type=email],
 .form textarea {
   color: #777;
@@ -893,7 +912,7 @@ nav {
 .form textarea:focus {
   border-color: #aaa;
   outline: 0;
-}
+} */
 /* =============================================================================
    Media Queries
    ========================================================================== */
