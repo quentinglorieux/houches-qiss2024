@@ -1,0 +1,71 @@
+baseurl: "https://main--dazzling-cascaron-87f5ac.netlify.app/"
+title: "Quantum Information Spring School"
+canonifyurls: true
+GoogleAnalytics: ""
+theme : 'hugo-conference'
+
+
+params:
+  # Conference info
+  Name: "Quantum Information Spring School"
+  Description: "Photonic Quantum Technologies"
+  Date: "May 20, 2024 - May 31, 2024"
+  Arrival: "May 20th after 3PM"
+  Departure: "May 31st after Lunch"
+  # Price: "" # 
+  City: "Les Houches"
+  Country:  "France"
+  Address : "Les Houches School of Physics. 140 Chemin de la Côte. 74310 Les Houches "
+  # Images: ["/img/badge.jpg"]
+  # GoogleMapsKey: "my-secret-maps-key"
+  Intro: "Our forthcoming pre-doctoral school will review diverse facets of contemporary
+  photonic quantum technologies, ranging from foundational principles to
+  practical applications. Starting from broad tutorials on quantum optics and
+  light matter interactions, we will subsequently delve into the most recent
+  progress and methods in quantum communication, simulation, computing, and
+  sensing. Several seminars will be given by industry partners."
+
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - about
+    - speakers
+    - prog
+    - sponsors
+    - location
+    # - program
+    # - schedule
+   
+    # - partners
+    # - contact
+    # - contact2
+   
+
+  # Titles which you can translate to other languages
+  Titles:
+    about: "About"
+    location: "Location"
+    speakers: "Speakers"
+    program: "Program"
+    prog: "Program"
+    schedule: "Detailled schedule"
+    sponsors: "Sponsors"
+    partners: "Partners"
+    contact: "Contact"
+
+  # The Call To Action button at the header,
+  # If you don't want this, just remove the callToAction property.
+  CallToAction:
+    text: "Register now"
+    link: "/#contact"
+
+
+  # List of Sponsors
+  Sponsors:
+    - name: "Q"
+      logo: "/img/logo.png"
+      url: "http://link.fr"
+
+
+#   repository: "https://github.com/jweslley/hugo-conference/"

@@ -1,0 +1,40 @@
+- name: "Speaker1"
+  photo: "/img/speaker.jpg"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
+  lab: "LKB"
+
+- name: "Speaker2"
+  photo: "/img/speaker.jpg"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
+  lab: "LKB"
+
+
+- name: "Speaker3"
+  photo: "/img/speaker.jpg"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
+  lab: "LKB"
+
+
+- name: "Speaker4"
+  photo: "/img/speaker.jpg"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
+  lab: "LKB"
+
+
+- name: "Speaker5"
+  photo: "/img/speaker.jpg"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
+  lab: "LKB"
+
+
+- name: "Speaker6"
+  photo: "/img/speaker.jpg"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
+  lab: "LKB"
+
+
+- name: "Speaker7"
+  photo: "/img/speaker.jpg"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
+  lab: "LKB"
+
