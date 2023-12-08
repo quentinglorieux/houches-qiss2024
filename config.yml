@@ -34,6 +34,7 @@ params:
     - prog
     - sponsors
     - location
+    - contact3
     # - program
     # - schedule
    
@@ -52,7 +53,7 @@ params:
     schedule: "Detailled schedule"
     sponsors: "Sponsors"
     partners: "Partners"
-    contact: "Contact"
+    contact3: "Contact"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
