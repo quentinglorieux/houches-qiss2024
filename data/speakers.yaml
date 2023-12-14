@@ -1,40 +1,81 @@
-- name: "Speaker1"
+- name: "Jan Sperling"
+  photo: "/img/JanSperling.jpg"
+  bio: "Tba"
+  lab: "Paderborn University"
+
+- name: "Benjamin Brecht"
+  photo: "/img/BenjaminBrecht.jpg"
+  bio: "Tba"
+  lab: "Paderborn University"
+
+
+- name: "Peter Lodahl"
+  photo: "/img/peterlodahl.jpg"
+  bio: "Tba"
+  lab: "NBI, Copenhagen University"
+
+
+- name: "Eleni Diamanti"
   photo: "/img/speaker.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
-  lab: "LKB"
+  bio: "Tba"
+  lab: "LIP6, Sorbonne University"
 
-- name: "Speaker2"
+
+- name: "Darrick Chang"
+  photo: "/img/DarrickChang.jpg"
+  bio: "Tba"
+  lab: "ICFO"
+
+
+- name: "Giulia Ferrini"
+  photo: "/img/GiuliaFerrini.jpg"
+  bio: "Tba "
+  lab: "Chalmers University of Technology"
+
+
+- name: "Fabio Sciarrino"
+  photo: "/img/FabioSciarrino.jepg"
+  bio: "Tba"
+  lab: "Sapienza Università di Roma"
+
+
+- name: "Philippe Goldner"
+  photo: "/img/PhilippeGoldner.jepg"
+  bio: "Tba"
+  lab: "IRCP, Chimie ParisTech"
+
+
+- name: "Katia Gallo"
+  photo: "/img/KatiaGallo.png"
+  bio: "Tba"
+  lab: "KTH"
+
+
+- name: "Roberta Zambrini"
+  photo: "/img/robertazambrini.png"
+  bio: "Tba"
+  lab: "IFISC (UIB-CSIC)"
+
+
+- name: "Alexei Ourjoumstev"
+  photo: "/img/AlexeiOurjoumstev.jpg"
+  bio: "Tba"
+  lab: "Collège de France"
+
+
+- name: "Claire Le Gall"
+  photo: "/img/ClaireLeGall.jpg"
+  bio: "Tba"
+  lab: "Nu Quantum"
+
+- name: "Quentin Glorieux"
+  photo: "/img/QuentinGlorieux.png"
+  bio: "Tba"
+  lab: "LKB, Sorbonne University"
+
+
+  - name: "Peter van Loock"
   photo: "/img/speaker.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
-  lab: "LKB"
-
-
-- name: "Speaker3"
-  photo: "/img/speaker.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
-  lab: "LKB"
-
-
-- name: "Speaker4"
-  photo: "/img/speaker.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
-  lab: "LKB"
-
-
-- name: "Speaker5"
-  photo: "/img/speaker.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
-  lab: "LKB"
-
-
-- name: "Speaker6"
-  photo: "/img/speaker.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
-  lab: "LKB"
-
-
-- name: "Speaker7"
-  photo: "/img/speaker.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
-  lab: "LKB"
+  bio: "Tba"
+  lab: "University of Mainz"
 
