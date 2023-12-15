@@ -81,6 +81,12 @@
   lab: "Pasqal"
 
 
+- name: "Jake Bulmer"
+  photo: "/img/speaker.jpg"
+  bio: "Tba"
+  lab: "PsiQuantum"  
+
+
 - name: "Tba"
   photo: "/img/speaker.jpg"
   bio: "Tba"
