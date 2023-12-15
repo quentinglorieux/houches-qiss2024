@@ -75,8 +75,21 @@
   lab: "LKB, Sorbonne University"
 
 
-- name: "Peter van Loock"
+- name: "Valérian Thiel"
   photo: "/img/speaker.jpg"
   bio: "Tba"
-  lab: "University of Mainz"
+  lab: "Pasqal"
+
+
+- name: "Tba"
+  photo: "/img/speaker.jpg"
+  bio: "Tba"
+  lab: "Qandela"
+
+
+- name: "Tba"
+  photo: "/img/speaker.jpg"
+  bio: "Tba"
+  lab: "WeLinQ"
+
 
