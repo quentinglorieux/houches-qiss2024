@@ -1,10 +1,10 @@
 - name: "Jan Sperling"
-  photo: "/img/JanSperling.jpg"
+  photo: "/img/JanSperling.png"
   bio: "Tba"
   lab: "Paderborn University"
 
 - name: "Benjamin Brecht"
-  photo: "/img/BenjaminBrecht.jpg"
+  photo: "/img/BenjaminBrecht.png"
   bio: "Tba"
   lab: "Paderborn University"
 
@@ -34,13 +34,13 @@
 
 
 - name: "Fabio Sciarrino"
-  photo: "/img/FabioSciarrino.jepg"
+  photo: "/img/FabioSciarrino.jpg"
   bio: "Tba"
   lab: "Sapienza Università di Roma"
 
 
 - name: "Philippe Goldner"
-  photo: "/img/PhilippeGoldner.jepg"
+  photo: "/img/PhilippeGoldner.jpg"
   bio: "Tba"
   lab: "IRCP, Chimie ParisTech"
 
