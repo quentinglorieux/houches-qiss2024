@@ -10,3 +10,7 @@ Images are stored in static/img/
 Speakers infos are in data/speakers.yaml
 
 Other files should not be edited
+
+## Run it locally
+```
+```
