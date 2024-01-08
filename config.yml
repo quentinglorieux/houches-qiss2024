@@ -71,10 +71,10 @@ params:
   Sponsors:
     - name: "QICS"
       logo: "/img/logo.png"
-      url: "http://link.fr"
-    - name: "QICS"
-      logo: "/img/PCQT-full-txt-bleu.png"
-      url: "http://link.fr"
+      url: "https://qics.sorbonne-universite.fr/"
+    - name: "PCQT"
+      logo: "/img/PCQT-full-txt-bleu.jpg"
+      url: "https://pcqt.fr/"
 
 
 #   repository: "https://github.com/jweslley/hugo-conference/"
