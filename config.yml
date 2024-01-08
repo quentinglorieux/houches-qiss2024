@@ -69,8 +69,11 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "Qandela"
+    - name: "QICS"
       logo: "/img/logo.png"
+      url: "http://link.fr"
+    - name: "QICS"
+      logo: "/img/PCQT-full-txt-bleu.png"
       url: "http://link.fr"
 
 
