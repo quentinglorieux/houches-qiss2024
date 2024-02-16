@@ -94,6 +94,12 @@
   lab: "PsiQuantum"  
 
 
+- name: "Davide Bacco"
+  photo: "/img/speaker.jpg"
+  bio: "Tba"
+  lab: "Quantum Telecommunications Italy (QTI)"  
+
+
 - name: "Tba"
   photo: "/img/speaker.jpg"
   bio: "Tba"
