@@ -100,10 +100,16 @@
   lab: "Quantum Telecommunications Italy (QTI)"  
 
 
-- name: "Tba"
+- name: "Shane Mansfield"
   photo: "/img/speaker.jpg"
   bio: "Tba"
   lab: "Qandela"
+
+
+- name: "Félix Bussières"
+photo: "/img/speaker.jpg"
+bio: "Tba"
+lab: "ID Quantique"
 
 
 - name: "Tba"
