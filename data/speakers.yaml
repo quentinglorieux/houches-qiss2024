@@ -18,7 +18,7 @@
 - name: "Eleni Diamanti"
   photo: "/img/EleniDiamanti.jpg"
   bio: "Tba"
-  lab: "LIP6, Sorbonne University"
+  lab: "LIP6, Sorbonne University and WeLinQ"
 
 
 - name: "Darrick Chang"
@@ -45,10 +45,10 @@
   lab: "IRCP, Chimie ParisTech"
 
 
-- name: "Katia Gallo"
-  photo: "/img/KatiaGallo.png"
+- name: "Rachel Grange"
+  photo: "/img/RachelGrange.jpg"
   bio: "Tba"
-  lab: "KTH"
+  lab: "ETH"
 
 
 - name: "Johannes Nokkala"
