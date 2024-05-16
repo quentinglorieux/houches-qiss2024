@@ -107,9 +107,9 @@
 
 
 - name: "Félix Bussières"
-photo: "/img/speaker.jpg"
-bio: "Tba"
-lab: "ID Quantique"
+  photo: "/img/speaker.jpg"
+  bio: "Tba"
+  lab: "ID Quantique"
 
 
 
