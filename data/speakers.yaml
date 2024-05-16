@@ -5,7 +5,7 @@
 
 - name: "Benjamin Brecht"
   photo: "/img/BenjaminBrecht.png"
-  bio: "Tba"
+  bio: "Guided-wave parametric down-conversion 101 and Examples of engineered PDC sources"
   lab: "Paderborn University"
 
 
@@ -53,13 +53,13 @@
 
 - name: "Johannes Nokkala"
   photo: "/img/JohannesNokkala.jpg"
-  bio: "Tba"
+  bio: "Quantum reservoir computing: introduction & state-of-the-art"
   lab: "University of Turku"
 
 
 - name: "Alexei Ourjoumstev"
   photo: "/img/AlexeiOurjoumstev.jpg"
-  bio: "Tba"
+  bio: "Photon-photon interactions, from measurements to Rydberg superatoms"
   lab: "Collège de France"
 
 
@@ -83,7 +83,7 @@
 
 
 - name: "Valérian Thiel"
-  photo: "/img/speaker.jpg"
+  photo: "/img/ValerianThiel.jpg"
   bio: "Tba"
   lab: "Pasqal"
 
@@ -94,15 +94,15 @@
   lab: "PsiQuantum"  
 
 
-- name: "Davide Bacco"
-  photo: "/img/speaker.jpg"
+- name: "Francesconi Saverio"
+  photo: "/img/FrancesconiSaverio.jpg"
   bio: "Tba"
   lab: "Quantum Telecommunications Italy (QTI)"  
 
 
-- name: "Shane Mansfield"
-  photo: "/img/speaker.jpg"
-  bio: "Tba"
+- name: "Rawad Mezher"
+  photo: "/img/Rawad Mezher.jpg"
+  bio: "Mitigating photon loss in linear optical quantum circuits with applications to training quantum circuit Born machines."
   lab: "Qandela"
 
 
@@ -111,10 +111,5 @@ photo: "/img/speaker.jpg"
 bio: "Tba"
 lab: "ID Quantique"
 
-
-- name: "Tba"
-  photo: "/img/speaker.jpg"
-  bio: "Tba"
-  lab: "WeLinQ"
 
 
