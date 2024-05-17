@@ -1,6 +1,6 @@
 - name: "Jan Sperling"
   photo: "/img/JanSperling.png"
-  bio: "Tba"
+  bio: "Multimode quantum correlations"
   lab: "Paderborn University"
 
 - name: "Benjamin Brecht"
@@ -11,7 +11,7 @@
 
 - name: "Peter Lodahl"
   photo: "/img/peterlodahl.jpg"
-  bio: "Tba"
+  bio: "Deterministic single-photon quantum hardware for scalable quantum information processing"
   lab: "NBI, Copenhagen University"
 
 
@@ -23,7 +23,7 @@
 
 - name: "Darrick Chang"
   photo: "/img/DarrickChang.jpg"
-  bio: "Tba"
+  bio: "Quantum optics using atomic arrays"
   lab: "ICFO"
 
 
@@ -96,7 +96,7 @@
 
 - name: "Francesconi Saverio"
   photo: "/img/FrancesconiSaverio.jpg"
-  bio: "Tba"
+  bio: "Implementing QKD Networks in the Field"
   lab: "Quantum Telecommunications Italy (QTI)"  
 
 
