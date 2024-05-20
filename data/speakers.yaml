@@ -17,7 +17,7 @@
 
 - name: "Eleni Diamanti"
   photo: "/img/EleniDiamanti.jpg"
-  bio: "Tba"
+  bio: "Resources and applications of quantum communication networks and Quantum interconnects based on highly-efficient cold atom memories "
   lab: "LIP6, Sorbonne University and WeLinQ"
 
 
@@ -89,8 +89,8 @@
 
 
 - name: "Jake Bulmer"
-  photo: "/img/speaker.jpg"
-  bio: "Tba"
+  photo: "/img/JakeBulmer.jpg"
+  bio: "Fusion-based fault tolerant photonic quantum computing"
   lab: "PsiQuantum"  
 
 
