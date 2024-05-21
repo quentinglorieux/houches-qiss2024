@@ -89,7 +89,7 @@
 
 
 - name: "Jake Bulmer"
-  photo: "/img/JakeBulmer.jpg"
+  photo: "/img/JakeBulmer.png"
   bio: "Fusion-based fault tolerant photonic quantum computing"
   lab: "PsiQuantum"  
 
@@ -107,8 +107,8 @@
 
 
 - name: "Félix Bussières"
-  photo: "/img/speaker.jpg"
-  bio: "Tba"
+  photo: "/img/FelixBussieres.jpeg"
+  bio: "Superconducting nanowire single-photon detectors for quantum quantum communication and photonic quantum computing"
   lab: "ID Quantique"
 
 
